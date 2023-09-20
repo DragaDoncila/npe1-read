@@ -1,0 +1,9 @@
+pyproject.toml
+setup.cfg
+npe1_read/__init__.py
+npe1_read.egg-info/PKG-INFO
+npe1_read.egg-info/SOURCES.txt
+npe1_read.egg-info/dependency_links.txt
+npe1_read.egg-info/entry_points.txt
+npe1_read.egg-info/requires.txt
+npe1_read.egg-info/top_level.txt
